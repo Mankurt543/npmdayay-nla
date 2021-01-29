@@ -10,7 +10,10 @@
   "keywords": [
     "geneltekrar",
     "doit"
-  ],
+  ],"repository": {
+    "type": "git",
+    "url": "https://github.com/Mankurt543/npmdayay-nla.git"
+  },
   "author": "cibilex",
   "license": "ISC",
   "dependencies": {
