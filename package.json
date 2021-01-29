@@ -1,0 +1,22 @@
+{
+  "name": "sondeneme",
+  "version": "1.0.0",
+  "description": "genel tekrar amaclı deneme",
+  "main": "cc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "b": "node cc.js"
+  },
+  "keywords": [
+    "geneltekrar",
+    "doit"
+  ],
+  "author": "cibilex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
